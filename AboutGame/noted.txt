@@ -1,0 +1,6 @@
+chiều dọc background = 638
+chiều dọc ống 500
+chiều ngang ống 66
+chiều ngang background = 850\
+
+850/5 = 170
